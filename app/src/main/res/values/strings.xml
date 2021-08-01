@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">layout</string>
+
+    <string-array name="item_writer">
+        <item>라찬엽</item>
+        <item>라찬엽</item>
+        <item>라찬엽</item>
+        <item>라찬엽</item>
+        <item>라찬엽</item>
+        <item>라찬엽</item>
+        <item>라찬엽</item>
+        <item>라찬엽</item>
+        <item>라찬엽</item>
+    </string-array>
+
+    <string-array name="item_post">
+        <item>게시글 1입니다.</item>
+        <item>게시글 2입니다.</item>
+        <item>게시글 3입니다.</item>
+        <item>게시글 4입니다.</item>
+        <item>게시글 5입니다.</item>
+        <item>게시글 6입니다.</item>
+        <item>게시글 7입니다.</item>
+        <item>게시글 8입니다.</item>
+        <item>게시글 9입니다.</item>
+    </string-array>
+</resources>
